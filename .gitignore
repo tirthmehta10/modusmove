@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vercel/
+
+.DS_Store
+*.log
+*.local
+
+
+# API keys — NEVER commit these
+.env
+.env.local
+
+.vercel
+
+# Claude Code config
+.claude/
